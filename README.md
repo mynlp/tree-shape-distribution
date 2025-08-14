@@ -54,7 +54,7 @@ uv run python -m scripts.hist_compare_average
 uv run python -m scripts.hist_compare_multi
 ```
 
-For full experiments, you need to modify the script and set the following variables:
+For full experiments, you need to modify the scripts and set the following variables:
 
 ```
 base_dir: Path = Path("../tmp") # Set the directory where all results will be placed.
