@@ -1,0 +1,35 @@
+((S-pogela 
+    (VP (N FUGA) 
+        (PP 
+            (NP-hoge (T T))
+            (PP (P of) 
+                (VP (N aa) (V abb) (V bxxxx) (X gum))
+                (NP (Q fuga)) 
+            ) 
+            (NP-fuga (LR apple) 
+                (S 
+                    (NP (N math) (V pogela)) 
+                (P on))
+            ) 
+        ) 
+    (N orange))
+    (M monster) (A bert) (. .)))
+
+((SPOGELA-var (P a)
+    (VP (N b)
+        (PP (C c)
+            (PP-var (D d)
+                (NP (N fuga)) 
+            ) 
+            (NP-pogela (A apple)
+                (S 
+                    (NP (B math) (V pogela)) 
+                (X on))
+            ) 
+            (NP (N fuga))
+            (NP-pogela (P fuga)) 
+        ) 
+    (NN orange))
+    (DN monster) (SN bert) (. .)))
+
+(FRAG (V start) (N pogela) (N end))
