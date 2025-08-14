@@ -273,7 +273,7 @@ if debug:
                 ["debug_data", "debug_data", "debug_data"],
                 ["debug_data", "debug_data", "debug_data"],
             ],
-            "measure_key_l": ["colles", "num_leaves"],
+            "measure_key_l": ["colles", "fixed_aspect_ratio"],
             "preprocess_setting_key": "debug_default",
             "eval_setting_key": "debug_default",
         },

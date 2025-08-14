@@ -247,7 +247,7 @@ if debug:
     plot_other_params: dict[str, dict[str, Any]] = {
         "debug_plot": {
             "dataset_key_l": ["debug_data", "debug_data", "debug_data"],
-            "measure_key_l": ["colles", "num_leaves_inside"],
+            "measure_key_l": ["colles", "fixed_aspect_ratio"],
             "preprocess_setting_key": "debug_default",
             "eval_setting_key": "debug_default",
         },
