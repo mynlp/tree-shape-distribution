@@ -38,7 +38,7 @@ Although there is an option for gpu, the experiments basically do not use gpus.
 
 To generate Figure 3, 4, 5, 6, 8, and 9, use `scripts/plot.py`.
 To generate Table 2, use `scripts/treebank_stats.py`.
-To generate Table 3, use `scripts/hist_compare_whole.py`.
+To generate Table 3, use `scripts/hist_intersec_whole.py`.
 To generate Table 4, use `scripts/hist_compare_average.py`.
 To generate Table 4, use `scripts/hist_compare_multi.py`.
 
@@ -49,7 +49,7 @@ Run
 ```
 uv run python -m scripts.plot
 uv run python -m scripts.treebank_stats
-uv run python -m scripts.hist_compare_whole
+uv run python -m scripts.hist_intersec_whole
 uv run python -m scripts.hist_compare_average
 uv run python -m scripts.hist_compare_multi
 ```
